@@ -1,5 +1,5 @@
 
-# 🛒 Amazon Clone (Practice Project)
+# 🛒 Amazon Clone (Practice Project) 
 
 A visually accurate **Amazon UI clone** made using **HTML**, **CSS**, and **JavaScript** — built for learning and front-end practice.
 
